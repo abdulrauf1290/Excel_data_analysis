@@ -1,2 +1,2 @@
 # Excel_data_analysis
-![Bike sales dashboard](Bike sales dashboard.png)
+![Bike sales dashboard](Excel_data_analysis/Bike sales dashboard.png)
